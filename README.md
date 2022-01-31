@@ -34,4 +34,4 @@ Here are the objectives of the project:
    *  There are total 131209 orders through which total 39123 products were ordered.
    *  From 'Frequency of Items in Cart in Train set' plot, we known that most of people buy 1-17 items in an order and there were a maximum of 145 items in an order.
    *  The percentage of reorder items in train set is 59.86%.
-![image](
+![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Frequency%20of%20Items%20in%20Cart%20in%20Train%20set.png）
