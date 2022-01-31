@@ -10,3 +10,13 @@ Here are the objectives of the project:
 * Build a Machine Learning Model to perdict which previously purchased product will be in user's next order
 
 ## Project Organization
+![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/project%20organization.png)
+
+## Data Description
+* aisles: In this file, there are total 134 different aisles and aisles_id.
+* departments: This file contains different departments and there are total 21 unique departments.
+* orders: It contains all the orders made by different users. Based on the analysis, we can get the folowing conclusion:
+   * There are total 3421083 orders made by 206209 different users.
+   * Prior, Train and Test are three different sets of orders. The distribution of orders in Train and Test sets are similar whereas the distribution of orders in Prior set is different.
+   * According to the plot of 'Total Orders VS Day of Week', we can see most of people buy groceries on weekends (0- Saturday, 1- Sunday)
+![image](
