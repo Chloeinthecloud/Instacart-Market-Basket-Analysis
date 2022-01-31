@@ -29,4 +29,4 @@ Here are the objectives of the project:
    *  This table has total 3214874 orders and 49677 products were ordered.
    *  From 'Frequency of Items in Cart' plot, we can conclude most of people buy 1-17 items in an order and there were a maximum of 145 items in an order. 
    *  The percentage of reorder items in prior set is 58.97%.
-
+![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Frequency%20of%20Items%20in%20Cart%20in%20Prior%20set.png)
