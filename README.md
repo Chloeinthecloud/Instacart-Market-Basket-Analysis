@@ -24,3 +24,9 @@ Here are the objectives of the project:
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Orders%20VS%20Days%20since%20prior%20order.png)
    * Based on the heatmap between 'Day of Week' and 'Hour of Day,' we can say that majority of the orders are made during the day time, also Saturday afternoons and Sunday mornings are prime time for orders.
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Frequency%20of%20Day%20of%20Week%20VS%20Hour%20of%20Day.png)
+* products: This file contains the list of total 49688 products and their aisle as well as department. The number of products in different aisles and different departments are different.
+* order_products_prior: This dataset provides information about which products were ordered and in which order they were added in the cart. It also shows us if the product was reordered or not.
+   *  This table has total 3214874 orders and 49677 products were ordered.
+   *  From 'Frequency of Items in Cart' plot, we can conclude most of people buy 1-17 items in an order and there were a maximum of 145 items in an order. 
+   *  The percentage of reorder items in prior set is 58.97%.
+
