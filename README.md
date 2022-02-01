@@ -61,3 +61,6 @@ For EDA, I combined all of the separate data files into one single dataframe.
 
 * In the plot of reorder percentage and number of product purchase, we can see a ceiling effect. Many people try different product once and they do not reorder agian. Also, there are users buy certain products regularly.
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Reorder%20Percentage%20VS%20Total%20Orders.png)
+
+* From below table, we can see that the total unique users of products having highest reorder ratio are only few (1-15 only). This means that these users like these products and would buy regularly.
+![image]()
