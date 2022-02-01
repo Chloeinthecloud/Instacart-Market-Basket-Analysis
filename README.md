@@ -53,4 +53,7 @@ For EDA, I combined all of the separate data files into one single dataframe.
 
 * As we can see in below charts, there are less number of organic products but their mean reorder ratio is higher than inorganic product. It tells us that we should have more organic products in Instacart website and App.
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Total%20Organic%20%26%20Inorganic%20Products.png)
+![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Mean%20Reorder%20Ratio%20of%20Organic%20%26%20Inorganic%20Products.png)
+
+* According to add-to-cart-order and mean reorder percentage, we can see the lower the add-to-cart-order higher the reorder ratio. This makes sense as we mostly buy things at first that are required on day-to-day basis.
 ![image]()
