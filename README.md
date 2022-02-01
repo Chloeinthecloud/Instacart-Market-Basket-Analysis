@@ -38,4 +38,8 @@ Here are the objectives of the project:
 
 ##Exploratory Data Analysis
 For EDA, I combined all of the separate data files into one single dataframe.
-* This plot shows most popular aisles based on total products bought.
+* This plot shows most popular aisles based on total orders and reorders.
+![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Most%20Popular%20Products.png)
+
+* From below plots, the reorder ratio of day-to-day food items is high whereas the other products such as vitamins, food storage, beauty etc. reorder ratio is low. It is clear that we buy only groceries regularly and do not buy other products in every order.
+![image]()
