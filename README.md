@@ -46,7 +46,10 @@ For EDA, I combined all of the separate data files into one single dataframe.
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Aisle_Low_Reorder.png)
 
 * The following plot shows popular departments. The website or App layout should be in a way that popular departments are very near to each other.
-![image]()
+![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Popular%20Departments.png)
 
 * Here is the most popular products. As we can see there are many organic products in the Top 20 popular products.
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Most%20Popular%20Products.png)
+
+* As we can see in below charts, there are less number of organic products but their mean reorder ratio is higher than inorganic product. It tells us that we should have more organic products in Instacart website and App.
+
