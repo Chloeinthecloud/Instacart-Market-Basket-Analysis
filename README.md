@@ -36,3 +36,6 @@ Here are the objectives of the project:
    *  The percentage of reorder items in train set is 59.86%.
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Frequency%20of%20Items%20in%20Cart%20in%20Train%20set.png)
 
+##Exploratory Data Analysis
+For EDA, I combined all of the separate data files into one single dataframe.
+* This plot shows most popular aisles based on total products bought.
