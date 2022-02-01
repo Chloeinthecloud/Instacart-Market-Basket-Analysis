@@ -56,4 +56,4 @@ For EDA, I combined all of the separate data files into one single dataframe.
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Mean%20Reorder%20Ratio%20of%20Organic%20%26%20Inorganic%20Products.png)
 
 * According to add-to-cart-order and mean reorder percentage, we can see the lower the add-to-cart-order higher the reorder ratio. This makes sense as we mostly buy things at first that are required on day-to-day basis.
-![image]()
+![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Add%20to%20Cart%20Order%20VS%20Reorder%20Ratio%20.png)
