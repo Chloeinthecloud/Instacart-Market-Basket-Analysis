@@ -68,3 +68,8 @@ For EDA, I combined all of the separate data files into one single dataframe.
 
 * As the plot of cumulative total users per products VS products, we can see that 85% of the users buy only 10000 products out of 49688 products. If we are interested in shelf space optimization, we should have only these 10000 products. Here, I assume that the profit from remaining 39688 products are not significant high. If we had prices of these products, we could have considered the products having high revenue, high reorder percentage and high total product sale.
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Cumsum_products.png)
+
+## Customer Segmentation
+Customer Segmentation is a way to divide customers into different groups based on common characteristics so the company can market to each group effectively and appropriately. Since there are thousands of products and also thousands of customers, I utilized aisles which represent categories of products.
+I performed Principal Component Analysis to reduce dimensions as KMeans does not product good results on higher dimensions. By using 10 principal components, I carried out KMeans clustering, and chose optimal number of clusters as 5 based on Elbow method shown below.
+![image]()
