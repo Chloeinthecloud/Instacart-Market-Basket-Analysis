@@ -58,6 +58,7 @@ For EDA, I combined all of the separate data files into one single dataframe.
 
 * According to add-to-cart-order and mean reorder percentage, we can see the lower the add-to-cart-order higher the reorder ratio. This makes sense as we mostly buy things at first that are required on day-to-day basis.
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Add%20to%20Cart%20Order%20VS%20Reorder%20Ratio%20.png)
+<imgsrc="https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Add%20to%20Cart%20Order%20VS%20Reorder%20Ratio%20.png"width='100px'> 
 
 * In the plot of reorder percentage and number of product purchase, we can see a ceiling effect. Many people try different product once and they do not reorder agian. Also, there are users buy certain products regularly.
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Reorder%20Percentage%20VS%20Total%20Orders.png)
