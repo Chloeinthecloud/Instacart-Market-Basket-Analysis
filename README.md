@@ -75,4 +75,4 @@ I performed Principal Component Analysis to reduce dimensions as KMeans does not
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Elbow%20Method%20for%20Optimal%20k.png)
 
 Here is the clustering:
-
+![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Cluster.png)
