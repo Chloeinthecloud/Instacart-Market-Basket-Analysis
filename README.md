@@ -72,4 +72,7 @@ For EDA, I combined all of the separate data files into one single dataframe.
 ## Customer Segmentation
 Customer Segmentation is a way to divide customers into different groups based on common characteristics so the company can market to each group effectively and appropriately. Since there are thousands of products and also thousands of customers, I utilized aisles which represent categories of products.
 I performed Principal Component Analysis to reduce dimensions as KMeans does not product good results on higher dimensions. By using 10 principal components, I carried out KMeans clustering, and chose optimal number of clusters as 5 based on Elbow method shown below.
-![image]()
+![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Elbow%20Method%20for%20Optimal%20k.png)
+
+Here is the clustering:
+
