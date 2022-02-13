@@ -115,3 +115,10 @@ The top 10 product pairs having highest lift are shown below:
 | Bag of Organic Bananas | Organic Hass Avocado | 1.82 |
 | Honeycrisp Apple | Banana | 1.77 |
 | Organic Avocado | Organic Baby Spinach | 1.70 |
+
+## Machine Learning Model to Predict Product Reorders
+
+In order to build a model, I need to extract features from previous order to understand user's purchase pattern and how popular the particular product is. I extract following features from the user's transactional data.
+
+##### Product Level Features:
+
