@@ -128,3 +128,43 @@ In order to build a model, I need to extract features from previous order to und
     5.Total unique users of a product
     6.Organic or Inorganic
     7.Percentage of users that buy the product second time
+    
+##### Aisle Features:
+    8.Reorder percentage. Total orders and reorders of a product aisle
+    9.Mean and std of aisle add_to_cart_order
+    10.Aisle unique users
+    11.Binary encoding of aisle feature
+    
+##### Department Features:
+    12.Reorder percentage. Total orders and reorders of a product department
+    13.Mean and std of department add-to-cart-order
+    14.Department unique users
+    15.Binary encoding of department feature
+
+##### User Level Features:
+    16.User's average and std day-of-week of order
+    17.User's average and std hour-of-day of order
+    18.User's average and std days-since-prior-order
+    19.Total orders by a user
+    20.Total products user has bought
+    21.Total unique products user has bought
+    22.User's total reordered products
+    23.User's overall reorder percentage
+    24.Average order size of a user
+    25.User's mean of reordered items of all orders
+    26.Percentage of reordered items in user's last three orders
+    27.Total orders in user's last three orders
+    
+##### User Product Level Features:
+    28.User's avg add-to-cart-order for a product
+    29.User's avg days_since_prior_order for a product
+    30.User's product total orders, reorders and reorders percentage
+    31.User's order number when the product was bought last
+    32.User's product purchase history of last three orders
+
+### ML Model - XGBoost
+Using the extracted features, I prepared a dataframe which shows all the products user has bought previously, user level features, product level features, asile and department level features, user-product level features and the information of current order such as order's day-of-week, hour-of-day, etc. The Traget would be 'reordered' which shows how many of the previously purchased items, user ordered this time.
+I chose to use XGBoost as it handles large data, can be parallelized and gives feature importance. Since, we can hack the F1 score by changing the threshold, I relied on AUC Score for model evaluation. The performance of XGBoost Model is shown below using Confusion Matrix, ROC curve and classification report. The feature important plot from XGBoost model is shown to understand important features which help predict product's reorder. The performance of XGBoost performs great in terms of ROC-AUC.
+
+#### XGBoost Model's Performance and Feature Importance:
+
