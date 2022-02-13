@@ -167,7 +167,8 @@ Using the extracted features, I prepared a dataframe which shows all the product
 I chose to use XGBoost as it handles large data, can be parallelized and gives feature importance. Since, we can hack the F1 score by changing the threshold, I relied on AUC Score for model evaluation. The performance of XGBoost Model is shown below using Confusion Matrix, ROC curve and classification report. The feature important plot from XGBoost model is shown to understand important features which help predict product's reorder. The performance of XGBoost performs great in terms of ROC-AUC.
 
 #### XGBoost Model's Performance and Feature Importance:
-
+<div align=center>
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/XGBoost%20Report.png)
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/XGBoost%20Performance.png)
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/XGBoost%20Feature%20Importance%20Plot.png)
+</div>
