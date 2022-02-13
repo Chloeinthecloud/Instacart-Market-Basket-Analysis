@@ -85,3 +85,18 @@ The clustering results into 5 neat clusters and after checking most frequent pro
 * Cluster 3 results into 99117 consumers who orders products from many aisles. Their mean order are lower than other clusters which tells us either they are not frequent users of Instacart or they are new users and do not have many orders yet.
 * Cluster 4 results into 55801 consumers who mostly bought fresh vegetables followed by fresh fruits.
 * Cluster 5 results into 7948 consumers buy packaged produce and fresh fruits mostly.
+
+## Market Basket Analysis
+Market basket analysis scrutinizes the products customers tend to buy together, and uses the information to decide which products should be cross-sold or promoted together. The term arises from the shopping carts supermarket shoppers fill up during a shopping trip.
+
+Association Rule Mining is used when we want to find an association between different objects in a set, find frequent patterns in a transaction database, relational databases or any other information repository.
+
+The most common approach to find these patterns is Market Basket Analysis, which is a key technique used by large retailers like Amazon, Flipkart, etc to analyze customer buying habits by finding associations between the different items that customers place in their “shopping baskets”. The discovery of these associations can help retailers develop marketing strategies by gaining insight into which items are frequently purchased together by customers. The strategies may include:
+
+* Changing the store layout according to trends
+* Customers behavior analysis
+* Catalog Design
+* Cross marketing on online stores
+* Customized emails with add-on sales, etc.
+
+
