@@ -106,3 +106,12 @@ The top 10 product pairs having highest lift are shown below:
 | ProductA | ProductB | Lift |
 | ----- | ----- | ----- |
 | Limes | Large Lemon | 3.0 |
+| Limes | Large Lemon | 3.0 |
+| Limes | Large Lemon | 3.0 |
+| Limes | Large Lemon | 3.0 |
+| Limes | Large Lemon | 3.0 |
+| Limes | Large Lemon | 3.0 |
+| Limes | Large Lemon | 3.0 |
+| Limes | Large Lemon | 3.0 |
+| Limes | Large Lemon | 3.0 |
+| Limes | Large Lemon | 3.0 |
