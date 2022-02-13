@@ -105,13 +105,13 @@ The top 10 product pairs having highest lift are shown below:
 
 | ProductA | ProductB | Lift |
 | ----- | ----- | ----- |
-| Limes | Large Lemon | 3.0 |
-| Limes | Large Lemon | 3.0 |
-| Limes | Large Lemon | 3.0 |
-| Limes | Large Lemon | 3.0 |
-| Limes | Large Lemon | 3.0 |
-| Limes | Large Lemon | 3.0 |
-| Limes | Large Lemon | 3.0 |
-| Limes | Large Lemon | 3.0 |
-| Limes | Large Lemon | 3.0 |
-| Limes | Large Lemon | 3.0 |
+| Limes | Large Lemon | 3.01 |
+| Organic Strawberries | Organic Raspberries | 2.21 |
+| Organic Avocado | Large Lemon | 2.13 |
+| Organic Strawberries | Organic Blueberries | 2.12 |
+| Organic Raspberries | Organic Hass Avocado | 2.08 |
+| Organic Fuji Apple | Banana | 1.88 |
+| Bag of Organic Bananas | Organic Raspberries | 1.84 |
+| Bag of Organic Bananas | Organic Hass Avocado | 1.82 |
+| Honeycrisp Apple | Banana | 1.77 |
+| Organic Avocado | Organic Baby Spinach | 1.70 |
