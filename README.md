@@ -168,6 +168,6 @@ I chose to use XGBoost as it handles large data, can be parallelized and gives f
 
 #### XGBoost Model's Performance and Feature Importance:
 <div align=center><img src = 'https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/XGBoost%20Report.png'></div>
-![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/XGBoost%20Performance.png)
-![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/XGBoost%20Feature%20Importance%20Plot.png)
+<div align=center><img src = 'https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/XGBoost%20Performance.png></div>
+<div align=center><img src = 'https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/XGBoost%20Feature%20Importance%20Plot.png></div>
 
