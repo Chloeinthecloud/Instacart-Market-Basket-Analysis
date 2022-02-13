@@ -77,7 +77,7 @@ I performed Principal Component Analysis to reduce dimensions as KMeans does not
 
 Here is the clustering:
 
-![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Cluster.png)
+<div align=center><img width='150' height='150' src = 'https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Cluster.png'></div>
 
 The clustering results into 5 neat clusters and after checking most frequent products in them, we can conclude following:
 * Cluster 1 results into 37926 consumers who have a very strong preference for fruits followed by fresh vegetables.
