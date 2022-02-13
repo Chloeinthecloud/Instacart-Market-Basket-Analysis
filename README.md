@@ -78,3 +78,10 @@ I performed Principal Component Analysis to reduce dimensions as KMeans does not
 Here is the clustering:
 
 ![image](https://github.com/Chloeinthecloud/Instacart-Market-Basket-Analysis/blob/main/Plots/Cluster.png)
+The clustering results into 5 neat clusters and after checking most frequent products in them, we can conclude following:
+
+Cluster 1 results into 5428 consumers having a very strong preference for water seltzer sparkling water aisle.
+Cluster 2 results into 55784 consumers who mostly order fresh vegetables followed by fruits.
+Cluster 3 results into 7948 consumers who buy packaged produce and fresh fruits mostly.
+Cluster 4 results into 37949 consumers who have a very strong preference for fruits followed by fresh vegetables.
+Cluster 5 results into 99100 consumers who orders products from many aisles. Their mean orders are low compared to other clusters which tells us that either they are not frequent users of Instacart or they are new users and do not have many orders yet.
