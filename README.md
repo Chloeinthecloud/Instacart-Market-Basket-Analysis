@@ -104,5 +104,5 @@ I utilized apriori algorithm from Mlxtend python library and found out associati
 The top 10 product pairs having highest lift are shown below:
 
 | ProductA | ProductB | Lift |
-| ----- | ----- |
+| ----- | ----- | ----- |
 | Limes | Large Lemon | 3.0 |
