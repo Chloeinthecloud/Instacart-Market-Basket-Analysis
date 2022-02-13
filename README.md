@@ -121,4 +121,10 @@ The top 10 product pairs having highest lift are shown below:
 In order to build a model, I need to extract features from previous order to understand user's purchase pattern and how popular the particular product is. I extract following features from the user's transactional data.
 
 ##### Product Level Features:
-
+    1.Product's average add-to-cart-order
+    2.Total times the product was ordered
+    3.Total times the product was reordered
+    4.Reorder percentage of a product
+    5.Total unique users of a product
+    6.Organic or Inorganic
+    7.Percentage of users that buy the product second time
