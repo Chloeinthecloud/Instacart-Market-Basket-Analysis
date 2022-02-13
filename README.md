@@ -100,7 +100,7 @@ The most common approach to find these patterns is Market Basket Analysis, which
 * Customized emails with add-on sales, etc.
 
 ### Matrices
-I utilized apriori algorithm from Mlxtend python library and found out associations from top 100 most frequent products which resulted in 28 product pairs (total 56 rules) that have lift highr than 1. 
+I utilized apriori algorithm from Mlxtend python library and found out associations from top 100 most frequent products which resulted in 28 product pairs (total 56 rules) that have lift highr than 1, which means that there is a positive correlation within the itemset, i.e., products in the itemset, A, and B, are more likely to be bought together.
 The top 10 product pairs having highest lift are shown below:
 
 | ProductA | ProductB | Lift |
