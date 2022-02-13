@@ -99,4 +99,11 @@ The most common approach to find these patterns is Market Basket Analysis, which
 * Cross marketing on online stores
 * Customized emails with add-on sales, etc.
 
+### Matrices
+I utilized apriori algorithm from Mlxtend python library and found out associations from top 100 most frequent products which resulted in 28 product pairs (total 56 rules) that have lift highr than 1. 
+The top 10 product pairs having highest lift are shown below:
+
+| 栏目1 | 栏目2 |
+| ----- | ----- |
+| 内容1 | 内容2 |
 
